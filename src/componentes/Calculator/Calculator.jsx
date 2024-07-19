@@ -26,7 +26,7 @@ function Calculator() {
     theme === "dark" ? "bg-gray-900 text-white" : "bg-white text-gray-900"
   }`}
 >
-  <h1 className="text-3xl font-bold mb-6">Calculator</h1>
+  <h1 className="text-3xl font-bold mb-6">Calculadora</h1>
   <div className="flex flex-col items-center justify-center w-full max-w-md p-6 rounded-lg shadow-lg">
     <div className="flex items-center justify-between w-full mb-4">
       <div className="grid grid-cols-3 gap-2">
