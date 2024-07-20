@@ -177,6 +177,7 @@ function Calculator() {
       </button>
       <button
         onClick={handleClick}
+        id="/"
         className={`px-4 py-2 rounded-lg transition-colors duration-300 ${
           theme === "dark"
             ? "bg-gray-800 text-white hover:bg-gray-700"
